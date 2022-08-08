@@ -1,8 +1,9 @@
-![logo](images/icon.webp)
+![logo](images/icon.png)
 
-# 往生堂 WangshengTang :id=page-wangshengtang
+# 樂色報紙 LesePaper :id=lesepaper
 
-> 👻 欢迎来到往生堂公报
+> 👻 歡迎您來查看樂色報紙站！
+> 😋 希望能帶給你一整日的樂趣！領略到此地球上某些人之存在！<br>
 
 ![](images/wst.png)
 
