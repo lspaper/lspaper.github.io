@@ -10,9 +10,8 @@
 
 ## LesePaper Home
 
-基於MDUI的簡陋主頁。
 這個主頁展示了一些有關樂色報紙的信息。
 
-## LesePaper 維護者
+## LesePaper 維護
 
-Copyright 2022 LesePaper 
+**Copyright 2022 LesePaper**
