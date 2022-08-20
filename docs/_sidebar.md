@@ -6,13 +6,15 @@
 * 💊 精選特色
 	
 	* [🐓 公鷄他人伺服器200TB？他做到了嗎？](wujianhao.md)
-	* [⭕ 敢玩刺激的，老師奉陪！什麽都給扒出來！](fangshen.md)
+	* [⭕ 敢玩刺激的我奉陪！啥都給你扒出來！](fangshen.md)
 	* [🦆 成功學家宋老師如何輕鬆談合作？](https://sweet.ciallo.life/)
 	* [🌌 在中央有一批人的生活是怎麽樣的？](zhongyang.md)
 
 * 🎇 每周報紙
 	
 * 🎈 藥物報紙
+
+	* [🎇 Saya老師文章轉載與整合 中二但引發思考！](saya.md)
 
 * 🍵 HotTea 熱茶
 	* [加入熱茶團體中！](hottea.md)
