@@ -2,6 +2,6 @@
 
 # 樂色報紙 LesePaper :id=lesepaper
 
-> 👻 歡迎您來查看樂色報紙站！<br>
+> 👻 欢迎光临！<br>
 
 ![](images/wst.png)
